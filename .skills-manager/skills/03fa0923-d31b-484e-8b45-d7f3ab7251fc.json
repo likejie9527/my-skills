@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "03fa0923-d31b-484e-8b45-d7f3ab7251fc",
+  "path": "shell-quality-gate",
+  "path_key": "shell-quality-gate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
