@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "34092257-72fb-4396-8bf1-b6cb61202d9f",
+  "path": "web-search",
+  "path_key": "web-search",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "101-skills/superpowers/web-search",
+    "subpath": "tools\\llm\\web-search",
+    "branch": null
+  }
+}
